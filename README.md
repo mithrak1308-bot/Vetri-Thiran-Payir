@@ -1,2 +1,2 @@
-# Vetri-Thiran-Payir
+# fitbuddy-AI
 AI Augmented Backend Application 
